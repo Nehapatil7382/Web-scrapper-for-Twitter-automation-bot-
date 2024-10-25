@@ -90,8 +90,8 @@ def visualize_sentiment(sentiment_scores, tweet_contents):
     plt.tight_layout()
     plt.show()
 
-twitter_username = 'unnati_testing'
-twitter_password = 'kkwaghwebscraping'
+twitter_username = 'enter_your_username'
+twitter_password = 'enter_your_password'
 directory_path = os.path.abspath('./posts')
 
 json_data = [
